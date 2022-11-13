@@ -1,0 +1,19 @@
+{
+    "name": "puleeno/rashboard",
+    "description": "React dashboard for Laravel",
+    "type": "library",
+    "license": "BSD-3",
+    "autoload": {
+        "psr-4": {
+            "Puleeno\\Rashboard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
